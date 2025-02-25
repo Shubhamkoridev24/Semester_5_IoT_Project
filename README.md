@@ -4,9 +4,9 @@
 
  <h2> Component	Description	Library (if needed) </h2> 
 
-<h2> Table or Materials for Vacuum cleaner </h2>
+<h2> Materials for Vacuum cleaner </h2>
 
-**<ul>
+<ul>
 <li>Arduino Uno / Mega	- Main microcontroller for processing and control -	Built-in Arduino library </li>
 <li>Motor Driver (L298N / L293D)	- Controls the movement of DC motors -	AFMotor.h or L298N.h </li>
 <li>DC Motors (for wheels) -	Enables movement of the vacuum cleaner	- Controlled via motor driver </li>
@@ -16,5 +16,5 @@
 <li>Servo Motor (SG90 / MG995)	- Used to control vacuum direction or sweeping brush -	Servo.h </li>
 <li>Battery (Li-Ion / LiPo)	- Powers the system	 - No library needed </li>
 <li>Bluetooth Module (HC-05 / HC-06) (Optional) -	Enables remote control via smartphone	 - SoftwareSerial.h </li>
-<li>LCD Display (16x2) (Optional)	- Displays status and sensor readings	- LiquidCrystal.h </li>** 
+<li>LCD Display (16x2) (Optional)	- Displays status and sensor readings	- LiquidCrystal.h </li>
 </ul>
