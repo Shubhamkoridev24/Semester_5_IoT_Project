@@ -6,13 +6,15 @@
 
 <h2> Table or Materials for Vacuum cleaner </h2>
 
-**Arduino Uno / Mega	- Main microcontroller for processing and control -	Built-in Arduino library
-Motor Driver (L298N / L293D)	- Controls the movement of DC motors -	AFMotor.h or L298N.h
-DC Motors (for wheels) -	Enables movement of the vacuum cleaner	- Controlled via motor driver
-Vacuum Suction Motor -	Generates suction to collect dust and debris	- Directly controlled via analogWrite()
-Ultrasonic Sensor (HC-SR04) -	Detects obstacles and helps navigation -	NewPing.h
-Infrared (IR) Sensors	- Used for edge detection (cliff sensing) -	IRremote.h (if using IR communication)
-Servo Motor (SG90 / MG995)	- Used to control vacuum direction or sweeping brush -	Servo.h
-Battery (Li-Ion / LiPo)	- Powers the system	 - No library needed
-Bluetooth Module (HC-05 / HC-06) (Optional) -	Enables remote control via smartphone	 - SoftwareSerial.h
-LCD Display (16x2) (Optional)	- Displays status and sensor readings	- LiquidCrystal.h**
+**<ul>
+<li>Arduino Uno / Mega	- Main microcontroller for processing and control -	Built-in Arduino library </li>
+<li>Motor Driver (L298N / L293D)	- Controls the movement of DC motors -	AFMotor.h or L298N.h </li>
+<li>DC Motors (for wheels) -	Enables movement of the vacuum cleaner	- Controlled via motor driver </li>
+<li>Vacuum Suction Motor -	Generates suction to collect dust and debris	- Directly controlled via analogWrite() </li>
+<li>Ultrasonic Sensor (HC-SR04) -	Detects obstacles and helps navigation -	NewPing.h </li>
+<li>Infrared (IR) Sensors	- Used for edge detection (cliff sensing) -	IRremote.h (if using IR communication) </li>
+<li>Servo Motor (SG90 / MG995)	- Used to control vacuum direction or sweeping brush -	Servo.h </li>
+<li>Battery (Li-Ion / LiPo)	- Powers the system	 - No library needed </li>
+<li>Bluetooth Module (HC-05 / HC-06) (Optional) -	Enables remote control via smartphone	 - SoftwareSerial.h </li>
+<li>LCD Display (16x2) (Optional)	- Displays status and sensor readings	- LiquidCrystal.h </li>** 
+</ul>
