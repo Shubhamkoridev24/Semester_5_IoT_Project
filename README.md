@@ -2,8 +2,7 @@
 
 ->  An Arduino-based automatic vacuum cleaner is a smart robotic cleaning device that autonomously navigates and cleans surfaces using an Arduino microcontroller. It integrates sensors (such as ultrasonic or infrared) for obstacle detection, motor drivers for movement, and a suction mechanism to collect dust and debris. The system can be programmed for automated operation, manual control, or remote monitoring, making it an efficient and cost-effective cleaning solution.
 
-
--> <h2> Component	Description	Library (if needed) </h2> 
+ <h2> Component	Description	Library (if needed) </h2> 
 
 <h2> Table or Materials for Vacuum cleaner </h2>
 
